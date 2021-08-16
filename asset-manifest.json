@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hamza221/LyricsApp/static/css/main.afd7172b.chunk.css",
+    "main.js": "/hamza221/LyricsApp/static/js/main.ecce7c83.chunk.js",
+    "main.js.map": "/hamza221/LyricsApp/static/js/main.ecce7c83.chunk.js.map",
+    "runtime-main.js": "/hamza221/LyricsApp/static/js/runtime-main.1e2f0663.js",
+    "runtime-main.js.map": "/hamza221/LyricsApp/static/js/runtime-main.1e2f0663.js.map",
+    "static/js/2.59e1386d.chunk.js": "/hamza221/LyricsApp/static/js/2.59e1386d.chunk.js",
+    "static/js/2.59e1386d.chunk.js.map": "/hamza221/LyricsApp/static/js/2.59e1386d.chunk.js.map",
+    "static/js/3.511203b4.chunk.js": "/hamza221/LyricsApp/static/js/3.511203b4.chunk.js",
+    "static/js/3.511203b4.chunk.js.map": "/hamza221/LyricsApp/static/js/3.511203b4.chunk.js.map",
+    "index.html": "/hamza221/LyricsApp/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/hamza221/LyricsApp/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.59e1386d.chunk.js.LICENSE.txt": "/hamza221/LyricsApp/static/js/2.59e1386d.chunk.js.LICENSE.txt",
+    "static/media/spinner.ec066962.gif": "/hamza221/LyricsApp/static/media/spinner.ec066962.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e2f0663.js",
+    "static/js/2.59e1386d.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.ecce7c83.chunk.js"
+  ]
+}
